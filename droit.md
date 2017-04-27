@@ -8,6 +8,15 @@ authors:
 
 # Intro
 
+La notion de *droit à l’oubli* est un concept qui a émergé en Europe à la fin du XXe siècle[^1], avec l’arrivée des « nouvelles technologies », d’Internet et des réseau sociaux.
+Il désigne la capacité d’un individu à demander le retrait d’informations le concernant ou concernant son passé.
+
+Certains veulent en faire un droit fondamental, mais le droit a l’oubli provoque de nombreuses controverses, incluant des problèmes d’applicabilité, les contraintes qu’il impose sur la liberté d’expression et la liberté de la presse, ainsi que son interaction complexe avec le droit à la vie privée.
+
+La nature juvénile du droit à l’oubli en fait également un droit particulièrement apte à changer au cours des prochaines années, en France, dans l’Union Européenne, ou dans le reste du monde.
+Les procédures d’application de ce droit sont elles aussi extrêmement variables au cours du temps, étant de plus soumises à des contraintes techniques en constante évolution.
+
+[^1]: L’Argentine reconnaît également ce droit depuis le début du XXIe siècle.
 
 # Pourquoi le droit à l'oubli ?
 ## Un droit inaliénable
